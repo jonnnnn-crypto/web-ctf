@@ -1,10 +1,10 @@
 import Live2DMaskotAnime from "./components/custom/anime/Live2DMaskotAnime"
 
 export const APP = {
-  shortName: 'FGTE',
-  fullName: 'CTFS Platform',
-  description: 'Aplikasi CTF minimalis dengan Next.js dan Supabase',
-  flagFormat: 'FGTE{your_flag_here}',
+  shortName: 'PHXCTF',
+  fullName: 'PHXCTF Platform',
+  description: 'CTF platform',
+  flagFormat: 'PHXCTF{your_flag_here}',
   year: new Date().getFullYear(),
 
   challengeCategories: [
