@@ -1834,7 +1834,7 @@ GRANT SELECT, INSERT, UPDATE, DELETE ON public."keep-alive" TO anon;
 -- Initial Admin User Setup
 -- ########################################################
 -- Admin set manually:
--- UPDATE public.users SET is_admin = true WHERE id = 'your-user-id';
+UPDATE public.users SET is_admin = true WHERE id = '43a64297-8181-4001-a697-9b16346b1213';
 
 
 
